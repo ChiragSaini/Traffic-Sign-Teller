@@ -10,8 +10,10 @@ To run
 ```
 python app.py
 ```
-Front end : HTML, CSS, JavaScript
-BackEnd : Flask(Python)
-Classfier trained in Keras(Tenforflow Backend)
+*Front end* : HTML, CSS, JavaScript
+
+*BackEnd* : Flask(Python)
+
+Classfier trained in *Keras*(Tenforflow Backend)
 
 Live Demo at : http://trafficsignteller.herokuapp.com/
