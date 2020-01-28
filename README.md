@@ -14,6 +14,6 @@ python app.py
 
 *BackEnd* : Flask(Python)
 
-Classfier trained in *Keras*(Tenforflow Backend)
+Classfier trained in *Keras*(Tensorflow Backend)
 
 Live Demo at : http://trafficsignteller.herokuapp.com/
